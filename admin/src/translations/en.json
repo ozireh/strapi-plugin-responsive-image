@@ -25,5 +25,6 @@
   "settings.form.progressive.label": "Progressive",
   "settings.header.label": "Responsive image",
   "settings.section.global.label": "Global settings",
+  "settings.section.global.regenerate.label": "Regenerate all responsive images",
   "settings.sub-header.label": "Configure the settings for the responsive image"
 }

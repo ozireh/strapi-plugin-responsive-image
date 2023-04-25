@@ -290,6 +290,15 @@ export const SettingsPage = () => {
                           }}
                         />
                       </GridItem>
+                      <GridItem col={6} s={12}>
+                        <Button>
+                          {
+                            formatMessage({
+                              id: getTrad("settings.section.global.regenerate.label"),
+                            })
+                          }
+                        </Button>
+                      </GridItem>
                     </Grid>
                   </Stack>
                 </Box>
